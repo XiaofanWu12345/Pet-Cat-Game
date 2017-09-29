@@ -1,0 +1,73 @@
+Welcome to Cat Sim v1.0. What is your name?
+Sophia
+Hello Sophia.
+What would you like to do next?
+adopt
+Congrats! What's your new cat's name?
+Mary
+What color?
+Pink
+What's its favorite food?
+Fish
+A new cat has been acquired and its name is Mary
+What would you like to do next?
+feed
+What is the name of the cat you wanna select?
+mary
+Feed what food?
+fish
+Mary ate fish and is no longer hungry.
+Mary seems happier!
+What would you like to do next?
+digest
+What is the name of the cat you wanna select?
+mary
+Mary digested the food and grew up to 11 pounds.
+What would you like to do next?
+adopt
+Congrats! What's your new cat's name?
+Tom
+What color?
+Blue
+What's its favorite food?
+Jerry
+A new cat has been acquired and its name is Tom
+What would you like to do next?
+feed
+What is the name of the cat you wanna select?
+tom
+Feed what food?
+banana
+Tom ate banana and is no longer hungry.
+What would you like to do next?
+digest
+What is the name of the cat you wanna select?
+tom
+Tom digested the food and grew up to 11 pounds.
+What would you like to do next?
+jump
+What is the name of the cat you wanna select?
+mary
+How many time do you want mary to jump?
+10
+Mary has been trained to jump 10 times and can reach 10.95 feet.
+What would you like to do next?
+tom
+What would you like to do next?
+jump
+What is the name of the cat you wanna select?
+tom
+How many time do you want tom to jump?
+13
+Tom has been trained to jump 13 times and can reach 13.97 feet.
+What would you like to do next?
+pat
+What is the name of the cat you wanna select?
+tom
+Which body part do you want to pat?
+tail
+(=O=)?
+What would you like to do next?
+quit
+[('name', 'Mary'), ('color', 'pink'), ('fav_food', 'fish'), ('is_hungry', False), ('happiness', 2), ('feedcount', 1), ('weight', 10.499999999999993), ('jump_height', 10.95), ('emoji', '=^.^=')]
+[('name', 'Tom'), ('color', 'blue'), ('fav_food', 'jerry'), ('is_hungry', False), ('happiness', 1), ('feedcount', 1), ('weight', 10.34999999999999), ('jump_height', 13.97), ('emoji', '(=O=)?')]
